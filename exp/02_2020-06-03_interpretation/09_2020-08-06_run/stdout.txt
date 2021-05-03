@@ -1,0 +1,34 @@
+2020-08-06 18:59:11,494 INFO - Getting list of reference annotations...
+2020-08-06 18:59:11,494 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 18:59:11,496 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 18:59:11,496 INFO - Creating classifier tab data...
+2020-08-06 18:59:11,496 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 18:59:11,497 INFO - Starting concatenation_key: roadmap25
+2020-08-06 18:59:11,945 INFO - Found labels: set(['16_EnhW1', '4_PromD2', '6_Tx', '14_EnhA2', '19_DNase', '24_ReprPC', '21_Het', '22_PromP', '18_EnhAc', "7_Tx3'", '17_EnhW2', '15_EnhAF', '20_ZNF/Rpts', "10_TxEnh5'", '12_TxEnhW', '1_TssA', "5_Tx5'", '25_Quies', '2_PromU', '8_TxWk', '3_PromD1', '13_EnhA1', '23_PromBiv', '9_TxReg', "11_TxEnh3'"])
+2020-08-06 19:00:56,765 INFO - Getting list of reference annotations...
+2020-08-06 19:00:56,765 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:00:56,767 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:00:56,767 INFO - Creating classifier tab data...
+2020-08-06 19:00:56,767 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:00:56,767 INFO - Starting concatenation_key: roadmap25
+2020-08-06 19:00:57,203 INFO - Found labels: set(['16_EnhW1', '4_PromD2', '6_Tx', '14_EnhA2', '19_DNase', '24_ReprPC', '21_Het', '22_PromP', '18_EnhAc', "7_Tx3'", '17_EnhW2', '15_EnhAF', '20_ZNF/Rpts', "10_TxEnh5'", '12_TxEnhW', '1_TssA', "5_Tx5'", '25_Quies', '2_PromU', '8_TxWk', '3_PromD1', '13_EnhA1', '23_PromBiv', '9_TxReg', "11_TxEnh3'"])
+2020-08-06 19:01:26,582 INFO - Getting list of reference annotations...
+2020-08-06 19:01:26,583 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:01:26,584 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:01:26,584 INFO - Creating classifier tab data...
+2020-08-06 19:01:26,585 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:01:26,585 INFO - Starting concatenation_key: roadmap25
+2020-08-06 19:01:27,012 INFO - Found labels: set(['16_EnhW1', '4_PromD2', '6_Tx', '14_EnhA2', '19_DNase', '24_ReprPC', '21_Het', '22_PromP', '18_EnhAc', "7_Tx3'", '17_EnhW2', '15_EnhAF', '20_ZNF/Rpts', "10_TxEnh5'", '12_TxEnhW', '1_TssA', "5_Tx5'", '25_Quies', '2_PromU', '8_TxWk', '3_PromD1', '13_EnhA1', '23_PromBiv', '9_TxReg', "11_TxEnh3'"])
+2020-08-06 19:01:46,811 INFO - Getting list of reference annotations...
+2020-08-06 19:01:46,812 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:01:46,813 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:01:46,814 INFO - Creating classifier tab data...
+2020-08-06 19:01:46,814 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:01:46,814 INFO - Starting concatenation_key: roadmap25
+2020-08-06 19:01:47,251 INFO - Found labels: set(['16_EnhW1', '4_PromD2', '6_Tx', '14_EnhA2', '19_DNase', '24_ReprPC', '21_Het', '22_PromP', '18_EnhAc', "7_Tx3'", '17_EnhW2', '15_EnhAF', '20_ZNF/Rpts', "10_TxEnh5'", '12_TxEnhW', '1_TssA', "5_Tx5'", '25_Quies', '2_PromU', '8_TxWk', '3_PromD1', '13_EnhA1', '23_PromBiv', '9_TxReg', "11_TxEnh3'"])
+2020-08-06 19:01:47,872 INFO - Starting concatenation_key: segway_nar_HEPG2
+2020-08-06 19:01:47,949 INFO - Found labels: set(['EnhF1', 'EnhF2', 'CtcfO', 'PromF', 'Enh', 'Repr4', 'Repr5', 'Repr2', 'Repr3', 'Repr1', 'Tss', 'EnhPr', 'ElonW', 'PromP2', "Gen5'1", "Gen5'2", 'EnhW', 'Repr6', 'Low4', 'Low2', 'Low3', 'Low1', 'Elon', 'PromP1', 'Quies'])
+2020-08-06 19:01:48,053 INFO - Starting concatenation_key: segway_nar_GM12878
+2020-08-06 19:01:48,129 INFO - Found labels: set(['Elon1', 'PromF', 'Elon2', 'CtcfO', 'EnhWf', 'Enh', 'Repr4', 'Repr5', 'Repr2', 'Repr3', 'Repr1', 'TssF', "Gen5'", 'Tss', 'Ctcf', 'EnhF', 'ElonW', 'Low6', 'Low4', 'Low5', 'Low2', 'Low3', 'Low1', "Gen3'", 'Quies'])
+2020-08-06 19:01:48,236 INFO - Starting concatenation_key: roadmap15
+2020-08-06 19:01:48,512 INFO - Found labels: set(['13_ReprPC', '6_EnhG', '3_TxFlnk', '1_TssA', '14_ReprPCWk', '2_TssAFlnk', '11_BivFlnk', '7_Enh', '12_EnhBiv', '4_Tx', '10_TssBiv', '15_Quies', '8_ZNF/Rpts', '9_Het', '5_TxWk'])

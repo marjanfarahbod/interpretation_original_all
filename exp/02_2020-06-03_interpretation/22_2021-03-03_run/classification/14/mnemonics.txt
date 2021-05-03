@@ -1,0 +1,16 @@
+old	new
+13_Heterochrom/lo	Quiescent
+2_Weak_Promoter	Transcribed
+7_Weak_Enhancer	LowConfidence
+15_Repetitive/CNV	LowConfidence
+12_Repressed	LowConfidence
+4_Strong_Enhancer	Transcribed
+5_Strong_Enhancer	Quiescent
+3_Poised_Promoter	FacultativeHet
+8_Insulator	FacultativeHet
+9_Txn_Transition	LowConfidence
+14_Repetitive/CNV	LowConfidence
+1_Active_Promoter	Transcribed
+6_Weak_Enhancer	LowConfidence
+10_Txn_Elongation	FacultativeHet
+11_Weak_Txn	LowConfidence

@@ -1,0 +1,49 @@
+2020-08-03 18:34:02,358 INFO - Getting list of reference annotations...
+2020-08-03 18:34:02,358 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:34:02,359 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:34:02,359 INFO - Creating classifier tab data...
+2020-08-03 18:34:02,359 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:34:02,360 INFO - Starting concatenation_key: roadmap25
+2020-08-03 18:34:02,791 INFO - Found labels: set(['16_EnhW1', '4_PromD2', '6_Tx', '14_EnhA2', '19_DNase', '24_ReprPC', '21_Het', '22_PromP', '18_EnhAc', "7_Tx3'", '17_EnhW2', '15_EnhAF', '20_ZNF/Rpts', "10_TxEnh5'", '12_TxEnhW', '1_TssA', "5_Tx5'", '25_Quies', '2_PromU', '8_TxWk', '3_PromD1', '13_EnhA1', '23_PromBiv', '9_TxReg', "11_TxEnh3'"])
+2020-08-03 18:37:05,665 INFO - Getting list of reference annotations...
+2020-08-03 18:37:05,665 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:37:05,666 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:37:05,666 INFO - Creating classifier tab data...
+2020-08-03 18:37:05,666 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:37:05,666 INFO - Starting concatenation_key: roadmap25
+2020-08-03 18:37:06,098 INFO - Found labels: set(['16_EnhW1', '4_PromD2', '6_Tx', '14_EnhA2', '19_DNase', '24_ReprPC', '21_Het', '22_PromP', '18_EnhAc', "7_Tx3'", '17_EnhW2', '15_EnhAF', '20_ZNF/Rpts', "10_TxEnh5'", '12_TxEnhW', '1_TssA', "5_Tx5'", '25_Quies', '2_PromU', '8_TxWk', '3_PromD1', '13_EnhA1', '23_PromBiv', '9_TxReg', "11_TxEnh3'"])
+2020-08-03 18:37:27,132 INFO - Getting list of reference annotations...
+2020-08-03 18:37:27,133 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:37:27,133 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:37:27,134 INFO - Creating classifier tab data...
+2020-08-03 18:37:27,134 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:37:27,134 INFO - Starting concatenation_key: roadmap25
+2020-08-03 18:37:27,558 INFO - Found labels: set(['16_EnhW1', '4_PromD2', '6_Tx', '14_EnhA2', '19_DNase', '24_ReprPC', '21_Het', '22_PromP', '18_EnhAc', "7_Tx3'", '17_EnhW2', '15_EnhAF', '20_ZNF/Rpts', "10_TxEnh5'", '12_TxEnhW', '1_TssA', "5_Tx5'", '25_Quies', '2_PromU', '8_TxWk', '3_PromD1', '13_EnhA1', '23_PromBiv', '9_TxReg', "11_TxEnh3'"])
+2020-08-03 18:41:15,616 INFO - Getting list of reference annotations...
+2020-08-03 18:41:15,617 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:41:15,617 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:41:15,618 INFO - Creating classifier tab data...
+2020-08-03 18:41:15,618 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:41:15,618 INFO - Starting concatenation_key: roadmap25
+2020-08-03 18:41:16,060 INFO - Found labels: set(['16_EnhW1', '4_PromD2', '6_Tx', '14_EnhA2', '19_DNase', '24_ReprPC', '21_Het', '22_PromP', '18_EnhAc', "7_Tx3'", '17_EnhW2', '15_EnhAF', '20_ZNF/Rpts', "10_TxEnh5'", '12_TxEnhW', '1_TssA', "5_Tx5'", '25_Quies', '2_PromU', '8_TxWk', '3_PromD1', '13_EnhA1', '23_PromBiv', '9_TxReg', "11_TxEnh3'"])
+2020-08-03 18:41:55,964 INFO - Getting list of reference annotations...
+2020-08-03 18:41:55,965 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:41:55,965 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:41:55,965 INFO - Creating classifier tab data...
+2020-08-03 18:41:55,966 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:41:55,966 INFO - Starting concatenation_key: roadmap25
+2020-08-03 18:41:56,399 INFO - Found labels: set(['16_EnhW1', '4_PromD2', '6_Tx', '14_EnhA2', '19_DNase', '24_ReprPC', '21_Het', '22_PromP', '18_EnhAc', "7_Tx3'", '17_EnhW2', '15_EnhAF', '20_ZNF/Rpts', "10_TxEnh5'", '12_TxEnhW', '1_TssA', "5_Tx5'", '25_Quies', '2_PromU', '8_TxWk', '3_PromD1', '13_EnhA1', '23_PromBiv', '9_TxReg', "11_TxEnh3'"])
+2020-08-03 18:43:25,705 INFO - Getting list of reference annotations...
+2020-08-03 18:43:25,706 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:43:25,706 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:43:25,706 INFO - Creating classifier tab data...
+2020-08-03 18:43:25,707 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:43:25,707 INFO - Starting concatenation_key: roadmap25
+2020-08-03 18:43:26,147 INFO - Found labels: set(['16_EnhW1', '4_PromD2', '6_Tx', '14_EnhA2', '19_DNase', '24_ReprPC', '21_Het', '22_PromP', '18_EnhAc', "7_Tx3'", '17_EnhW2', '15_EnhAF', '20_ZNF/Rpts', "10_TxEnh5'", '12_TxEnhW', '1_TssA', "5_Tx5'", '25_Quies', '2_PromU', '8_TxWk', '3_PromD1', '13_EnhA1', '23_PromBiv', '9_TxReg', "11_TxEnh3'"])
+2020-08-03 18:48:26,633 INFO - Getting list of reference annotations...
+2020-08-03 18:48:26,634 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:48:26,634 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:48:26,635 INFO - Creating classifier tab data...
+2020-08-03 18:48:26,635 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:48:26,635 INFO - Starting concatenation_key: roadmap25
+2020-08-03 18:48:27,094 INFO - Found labels: set(['16_EnhW1', '4_PromD2', '6_Tx', '14_EnhA2', '19_DNase', '24_ReprPC', '21_Het', '22_PromP', '18_EnhAc', "7_Tx3'", '17_EnhW2', '15_EnhAF', '20_ZNF/Rpts', "10_TxEnh5'", '12_TxEnhW', '1_TssA', "5_Tx5'", '25_Quies', '2_PromU', '8_TxWk', '3_PromD1', '13_EnhA1', '23_PromBiv', '9_TxReg', "11_TxEnh3'"])

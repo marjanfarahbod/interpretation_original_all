@@ -1,0 +1,16 @@
+old	new
+13_Heterochrom/lo	RegPermissive
+2_Weak_Promoter	Bivalent
+7_Weak_Enhancer	RegPermissive
+15_Repetitive/CNV	RegPermissive
+12_Repressed	FacultativeHet
+4_Strong_Enhancer	Bivalent
+5_Strong_Enhancer	RegPermissive
+3_Poised_Promoter	Bivalent
+8_Insulator	Bivalent
+9_Txn_Transition	FacultativeHet
+14_Repetitive/CNV	Bivalent
+1_Active_Promoter	Bivalent
+6_Weak_Enhancer	Bivalent
+10_Txn_Elongation	Bivalent
+11_Weak_Txn	FacultativeHet

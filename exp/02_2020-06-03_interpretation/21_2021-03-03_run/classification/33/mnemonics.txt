@@ -1,0 +1,16 @@
+old	new
+13_ReprPC	Bivalent
+6_EnhG	Bivalent
+12_EnhBiv	Bivalent
+3_TxFlnk	Bivalent
+1_TssA	Bivalent
+4_Tx	Bivalent
+11_BivFlnk	Bivalent
+10_TssBiv	Bivalent
+14_ReprPCWk	RegPermissive
+2_TssAFlnk	Bivalent
+15_Quies	RegPermissive
+8_ZNF/Rpts	Bivalent
+9_Het	Bivalent
+5_TxWk	FacultativeHet
+7_Enh	RegPermissive

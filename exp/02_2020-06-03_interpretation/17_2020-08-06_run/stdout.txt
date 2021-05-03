@@ -1,0 +1,7 @@
+2020-08-06 19:20:51,590 INFO - Getting list of reference annotations...
+2020-08-06 19:20:51,593 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:20:51,594 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:20:51,594 INFO - Creating classifier tab data...
+2020-08-06 19:20:51,595 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:20:51,595 INFO - Starting concatenation_key: roadmap25
+2020-08-06 19:20:52,036 INFO - Found labels: set(['16_EnhW1', '4_PromD2', '6_Tx', '14_EnhA2', '19_DNase', '24_ReprPC', '21_Het', '22_PromP', '18_EnhAc', "7_Tx3'", '17_EnhW2', '15_EnhAF', '20_ZNF/Rpts', "10_TxEnh5'", '12_TxEnhW', '1_TssA', "5_Tx5'", '25_Quies', '2_PromU', '8_TxWk', '3_PromD1', '13_EnhA1', '23_PromBiv', '9_TxReg', "11_TxEnh3'"])

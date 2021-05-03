@@ -1,0 +1,29 @@
+import sys
+import os
+import argparse
+import subprocess
+import gzip
+import math
+import random
+from path import Path
+from collections import defaultdict
+#import bedtools
+import shutil
+import os
+
+
+sys.path.append(".")
+# FIXME Switch to normal import instead of from/*
+from util import *
+
+parser = argparse.ArgumentParser()
+parser.add_argument("workdir", type=Path)
+args = parser.parse_args()
+workdir = args.workdir # the input directory where the file is?
+
+
+if not workdir.exists():
+    workdir.makedirs()
+
+
+print(workdir)

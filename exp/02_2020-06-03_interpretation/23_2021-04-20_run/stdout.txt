@@ -1,0 +1,185 @@
+2021-04-21 16:13:51,494 INFO - Getting list of reference annotations...
+2021-04-21 16:13:51,495 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:13:51,497 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:14:54,970 INFO - Getting list of reference annotations...
+2021-04-21 16:14:54,971 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:14:54,972 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:14:54,973 INFO - Creating classifier tab data...
+2021-04-21 16:14:54,973 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:14:54,973 INFO - Starting concatenation_key: roadmap25
+2021-04-21 16:14:55,521 INFO - Found labels: {'13_EnhA1', '19_DNase', '3_PromD1', '20_ZNF/Rpts', '18_EnhAc', '8_TxWk', "10_TxEnh5'", "5_Tx5'", '6_Tx', '4_PromD2', '17_EnhW2', '1_TssA', "11_TxEnh3'", '23_PromBiv', '21_Het', '9_TxReg', '25_Quies', '15_EnhAF', '2_PromU', '22_PromP', "7_Tx3'", '16_EnhW1', '12_TxEnhW', '14_EnhA2', '24_ReprPC'}
+2021-04-21 16:14:56,131 INFO - Starting concatenation_key: segway_nar_K562
+2021-04-21 16:14:56,220 INFO - Found labels: {'CtcfO', 'Low1', 'EnhP', 'Elon', 'PromF', 'Low4', 'Quies', "Gen3'2", 'Enh1', 'ElonW', 'EnhF3', 'Low3', 'Tss', 'Low2', 'Low6', 'Repr2', 'EnhF2', 'EnhF1', 'EnhWf', 'Repr1', 'Low5', 'Enh2', 'Repr3', "Gen3'1", 'Repr4'}
+2021-04-21 16:14:56,318 INFO - Starting concatenation_key: segway_nar_GM12878
+2021-04-21 16:14:56,408 INFO - Found labels: {'Ctcf', 'CtcfO', 'Elon2', 'Low1', 'TssF', 'PromF', 'Low4', 'Quies', 'ElonW', "Gen3'", 'Low3', 'Tss', 'Low2', 'Repr5', 'Low6', 'Repr2', 'EnhF', 'EnhWf', 'Repr1', 'Elon1', 'Low5', "Gen5'", 'Repr3', 'Enh', 'Repr4'}
+2021-04-21 16:14:56,503 INFO - Starting concatenation_key: segway_nar_HEPG2
+2021-04-21 16:14:56,596 INFO - Found labels: {'EnhW', 'CtcfO', 'Low1', 'Elon', 'PromF', 'Low4', 'Repr6', 'Quies', 'ElonW', "Gen5'1", 'EnhPr', 'Low3', 'Tss', 'Low2', 'Repr5', 'Repr2', 'EnhF2', "Gen5'2", 'EnhF1', 'Repr1', 'PromP2', 'PromP1', 'Repr3', 'Enh', 'Repr4'}
+2021-04-21 16:14:56,690 INFO - Starting concatenation_key: segway_nar_H1-HESC
+2021-04-21 16:14:56,779 INFO - Found labels: {'DnaseD', 'EnhWf2', 'Faire', 'CtcfO', 'Low1', 'ElonW2', 'Elon', 'PromF', 'Low4', 'TssF', 'Quies', 'EnhPr', 'ElonW3', "Gen3'", 'EnhWf1', 'PromP', 'EnhWf3', 'Low3', 'Tss', 'Low2', 'Low6', 'ElonW1', 'Low7', 'Low5', 'Repr'}
+2021-04-21 16:14:56,878 INFO - Starting concatenation_key: chromhmm_nar
+2021-04-21 16:14:57,331 INFO - Found labels: {'EnhW', 'DnaseD', 'Ctcf', 'EnhWF', 'CtcfO', 'Low', 'FaireW', 'DnaseU', 'TssF', 'Enh', 'ReprW', "Gen5'", 'Repr', 'Pol2', 'Elon', 'PromF', 'Quies', 'ReprD', 'ElonW', 'H4K20', "Gen3'", 'PromP', 'Tss', 'EnhF', 'Art'}
+2021-04-21 16:14:57,812 INFO - Starting concatenation_key: chromhmm9
+2021-04-21 16:14:58,303 INFO - Found labels: {'12_Repressed', '5_Strong_Enhancer', '11_Weak_Txn', '14_Repetitive/CNV', '3_Poised_Promoter', '1_Active_Promoter', '7_Weak_Enhancer', '9_Txn_Transition', '2_Weak_Promoter', '4_Strong_Enhancer', '8_Insulator', '10_Txn_Elongation', '13_Heterochrom/lo', '15_Repetitive/CNV', '6_Weak_Enhancer'}
+2021-04-21 16:14:58,847 INFO - Starting concatenation_key: roadmap15
+2021-04-21 16:14:59,175 INFO - Found labels: {'1_TssA', '7_Enh', '6_EnhG', '11_BivFlnk', '14_ReprPCWk', '9_Het', '15_Quies', '2_TssAFlnk', '4_Tx', '8_ZNF/Rpts', '12_EnhBiv', '5_TxWk', '13_ReprPC', '3_TxFlnk', '10_TssBiv'}
+2021-04-21 16:14:59,514 INFO - Starting concatenation_key: segway_nar_HUVEC
+2021-04-21 16:14:59,604 INFO - Found labels: {'Faire', 'CtcfO', 'Elon2', 'Low1', 'Repr7', 'Repr6', 'PromF', 'Quies', 'ElonW', 'EnhW2', "Gen3'", 'Low3', 'Tss', 'Low2', 'Repr5', 'EnhW1', 'Repr2', 'EnhF2', 'EnhF1', 'Repr1', 'Elon1', "Gen5'", 'Repr3', 'Enh', 'Repr4'}
+2021-04-21 16:14:59,700 INFO - Starting concatenation_key: roadmap18
+2021-04-21 16:15:00,086 INFO - Found labels: {'1_TssA', '11_EnhWk', '10_EnhA2', '5_Tx', '6_TxWk', '14_TssBiv', '15_EnhBiv', '12_ZNF/Rpts', '17_ReprPCWk', '2_TssFlnk', '9_EnhA1', '13_Het', '8_EnhG2', '4_TssFlnkD', '7_EnhG1', '18_Quies', '3_TssFlnkU', '16_ReprPC'}
+2021-04-21 16:15:00,508 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:15:00,509 INFO - label_mappings: {'segway_nar_K562': {'CtcfO': 'Unclassified', 'Low1': 'Quiescent', 'EnhP': 'Bivalent', 'Elon': 'Transcribed', 'PromF': 'RegPermissive', 'Low4': 'ConstitutiveHet', "Gen3'2": 'Transcribed', 'Enh1': 'Promoter', 'ElonW': 'Transcribed', 'EnhF3': 'Promoter', 'Low3': 'Quiescent', 'Tss': 'Promoter', 'Low2': 'Quiescent', 'Low6': 'ConstitutiveHet', 'Repr2': 'FacultativeHet', 'EnhF2': 'RegPermissive', 'Quies': 'Quiescent', 'EnhF1': 'RegPermissive', 'EnhWf': 'RegPermissive', 'Repr1': 'FacultativeHet', 'Low5': 'Quiescent', 'Enh2': 'RegPermissive', 'Repr3': 'FacultativeHet', "Gen3'1": 'Transcribed', 'Repr4': 'FacultativeHet'}, 'libbrecht2016_RIGHT_ATRIUM': {'2': 'Transcribed', '8': 'Transcribed', '7': 'ConstitutiveHet', '13': 'Enhancer', '5': 'Quiescent', '11': 'Enhancer', '12': 'Unclassified', '6': 'FacultativeHet', '0': 'ConstitutiveHet', '1': 'Promoter', '9': 'Enhancer', '3': 'Quiescent', '4': 'Promoter', '10': 'ConstitutiveHet'}, 'segway_nar_GM12878': {'Ctcf': 'Unclassified', 'CtcfO': 'Unclassified', 'Elon2': 'Transcribed', 'Low1': 'Quiescent', 'TssF': 'RegPermissive', 'PromF': 'RegPermissive', 'Low4': 'Quiescent', 'ElonW': 'Transcribed', "Gen3'": 'Transcribed', 'Low3': 'Quiescent', 'Tss': 'Promoter', 'Low2': 'ConstitutiveHet', 'Repr5': 'FacultativeHet', 'Repr2': 'FacultativeHet', 'EnhF': 'Enhancer', 'Quies': 'Quiescent', 'EnhWf': 'RegPermissive', 'Repr1': 'FacultativeHet', 'Elon1': 'Transcribed', 'Low5': 'Quiescent', "Gen5'": 'Transcribed', 'Repr3': 'FacultativeHet', 'Enh': 'Enhancer', 'Low6': 'Quiescent', 'Repr4': 'FacultativeHet'}, 'roadmap25': {'1_TssA': 'Promoter', '13_EnhA1': 'Enhancer', '23_PromBiv': 'Bivalent', '9_TxReg': 'Unclassified', '19_DNase': 'RegPermissive', "11_TxEnh3'": 'Transcribed', '3_PromD1': 'RegPermissive', '21_Het': 'ConstitutiveHet', '20_ZNF/Rpts': 'ConstitutiveHet', "7_Tx3'": 'Transcribed', '8_TxWk': 'Transcribed', '25_Quies': 'Quiescent', "10_TxEnh5'": 'RegPermissive', '15_EnhAF': 'RegPermissive', '18_EnhAc': 'RegPermissive', '2_PromU': 'RegPermissive', '17_EnhW2': 'RegPermissive', '22_PromP': 'Promoter', '16_EnhW1': 'RegPermissive', '12_TxEnhW': 'RegPermissive', '6_Tx': 'Transcribed', '14_EnhA2': 'Enhancer', '4_PromD2': 'RegPermissive', "5_Tx5'": 'Unclassified', '24_ReprPC': 'FacultativeHet'}, 'segway_nar_H1-HESC': {'EnhWf2': 'RegPermissive', 'Faire': 'Unclassified', 'CtcfO': 'Unclassified', 'DnaseD': 'Unclassified', 'Low1': 'Quiescent', 'ElonW2': 'Quiescent', 'Elon': 'Transcribed', 'PromF': 'RegPermissive', 'Low4': 'FacultativeHet', "Gen3'": 'Transcribed', 'EnhWf1': 'RegPermissive', 'TssF': 'RegPermissive', 'EnhPr': 'RegPermissive', 'PromP': 'Bivalent', 'ElonW3': 'Quiescent', 'EnhWf3': 'Quiescent', 'Low3': 'ConstitutiveHet', 'Tss': 'Promoter', 'Low2': 'Quiescent', 'Low6': 'Quiescent', 'Quies': 'Quiescent', 'ElonW1': 'Quiescent', 'Low7': 'Quiescent', 'Low5': 'Quiescent', 'Repr': 'FacultativeHet'}, 'chromhmm9': {'11_Weak_Txn': 'Transcribed', '9_Txn_Transition': 'Transcribed', '5_Strong_Enhancer': 'Enhancer', '7_Weak_Enhancer': 'RegPermissive', '12_Repressed': 'FacultativeHet', '13_Heterochrom/lo': 'Quiescent', '10_Txn_Elongation': 'Transcribed', '15_Repetitive/CNV': 'ConstitutiveHet', '14_Repetitive/CNV': 'ConstitutiveHet', '8_Insulator': 'Unclassified', '3_Poised_Promoter': 'Bivalent', '6_Weak_Enhancer': 'RegPermissive', '4_Strong_Enhancer': 'Enhancer', '2_Weak_Promoter': 'Promoter', '1_Active_Promoter': 'Promoter'}, 'roadmap15': {'7_Enh': 'RegPermissive', '1_TssA': 'Promoter', '6_EnhG': 'Unclassified', '2_TssAFlnk': 'RegPermissive', '11_BivFlnk': 'Bivalent', '4_Tx': 'Transcribed', '12_EnhBiv': 'Bivalent', '14_ReprPCWk': 'FacultativeHet', '8_ZNF/Rpts': 'ConstitutiveHet', '5_TxWk': 'Transcribed', '13_ReprPC': 'FacultativeHet', '3_TxFlnk': 'Transcribed', '10_TssBiv': 'Bivalent', '9_Het': 'ConstitutiveHet', '15_Quies': 'Quiescent'}, 'roadmap18': {'15_EnhBiv': 'Bivalent', '1_TssA': 'Promoter', '5_Tx': 'Transcribed', '10_EnhA2': 'Enhancer', '9_EnhA1': 'Enhancer', '17_ReprPCWk': 'FacultativeHet', '2_TssFlnk': 'RegPermissive', '13_Het': 'ConstitutiveHet', '4_TssFlnkD': 'RegPermissive', '14_TssBiv': 'Bivalent', '6_TxWk': 'Transcribed', '7_EnhG1': 'Unclassified', '12_ZNF/Rpts': 'ConstitutiveHet', '18_Quies': 'Quiescent', '11_EnhWk': 'RegPermissive', '3_TssFlnkU': 'RegPermissive', '16_ReprPC': 'FacultativeHet', '8_EnhG2': 'Unclassified'}, 'libbrecht2016_HSMM': {'2': 'Enhancer', '8': 'Promoter', '13': 'FacultativeHet', '16': 'Promoter', '7': 'Transcribed', '12': 'Quiescent', '5': 'Quiescent', '15': 'RegPermissive', '11': 'ConstitutiveHet', '14': 'Transcribed', '6': 'Quiescent', '0': 'Unclassified', '1': 'ConstitutiveHet', '9': 'Transcribed', '3': 'RegPermissive', '4': 'FacultativeHet', '10': 'ConstitutiveHet'}, 'libbrecht2016_AG04449': {'2': 'Enhancer', '8': 'Quiescent', '7': 'Quiescent', '10': 'Enhancer', '5': 'Quiescent', '11': 'Promoter', '6': 'Promoter', '0': 'Promoter', '1': 'Quiescent', '9': 'Quiescent', '3': 'Quiescent', '4': 'Promoter', '12': 'RegPermissive'}, 'segway_nar_HEPG2': {'EnhW': 'Quiescent', 'CtcfO': 'Unclassified', "Gen5'2": 'Transcribed', 'Low1': 'Quiescent', 'Repr6': 'FacultativeHet', 'PromF': 'RegPermissive', 'Low4': 'Quiescent', 'ElonW': 'Transcribed', "Gen5'1": 'Transcribed', 'EnhPr': 'Promoter', 'Elon': 'Transcribed', 'Low3': 'ConstitutiveHet', 'Tss': 'Promoter', 'Low2': 'Quiescent', 'Repr5': 'FacultativeHet', 'Repr2': 'FacultativeHet', 'EnhF2': 'RegPermissive', 'Quies': 'Quiescent', 'EnhF1': 'Enhancer', 'Repr1': 'FacultativeHet', 'PromP2': 'Bivalent', 'Repr3': 'FacultativeHet', 'Enh': 'Enhancer', 'Repr4': 'Bivalent', 'PromP1': 'Bivalent'}, 'libbrecht2016_H1-HESC': {'18': 'RegPermissive', '17': 'Unclassified', '23': 'RegPermissive', '16': 'Quiescent', '13': 'Quiescent', '22': 'FacultativeHet', '25': 'Quiescent', '5': 'RegPermissive', '15': 'Quiescent', '11': 'FacultativeHet', '14': 'Bivalent', '6': 'Transcribed', '21': 'Quiescent', '19': 'Enhancer', '9': 'Quiescent', '3': 'Quiescent', '2': 'Quiescent', '8': 'ConstitutiveHet', '24': 'Enhancer', '7': 'Bivalent', '10': 'Quiescent', '0': 'Transcribed', '20': 'Transcribed', '26': 'Quiescent', '1': 'RegPermissive', '4': 'FacultativeHet', '12': 'Quiescent'}, 'chromhmm_nar': {'EnhW': 'RegPermissive', 'DnaseD': 'RegPermissive', 'Ctcf': 'Unclassified', 'EnhWF': 'RegPermissive', 'CtcfO': 'Unclassified', 'FaireW': 'RegPermissive', 'H4K20': 'Unclassified', 'Pol2': 'Unclassified', 'TssF': 'RegPermissive', 'Elon': 'Transcribed', 'PromF': 'RegPermissive', 'Quies': 'Quiescent', 'ElonW': 'Transcribed', 'Low': 'Quiescent', "Gen3'": 'Transcribed', 'DnaseU': 'RegPermissive', 'ReprW': 'FacultativeHet', 'PromP': 'Bivalent', 'Tss': 'Promoter', 'Enh': 'Enhancer', 'EnhF': 'Enhancer', 'ReprD': 'FacultativeHet', "Gen5'": 'Transcribed', 'Repr': 'FacultativeHet', 'Art': 'Unclassified'}, 'segway_nar_HUVEC': {'Faire': 'Unclassified', 'CtcfO': 'Unclassified', 'Repr5': 'FacultativeHet', 'Elon2': 'Transcribed', 'Low1': 'ConstitutiveHet', 'Repr7': 'FacultativeHet', 'Repr6': 'FacultativeHet', 'PromF': 'RegPermissive', 'Quies': 'Quiescent', 'ElonW': 'Transcribed', 'EnhW2': 'RegPermissive', "Gen3'": 'Transcribed', 'Low3': 'ConstitutiveHet', 'Tss': 'Promoter', 'Low2': 'ConstitutiveHet', 'EnhW1': 'RegPermissive', 'Repr2': 'FacultativeHet', 'EnhF2': 'Enhancer', 'EnhF1': 'Enhancer', 'Repr1': 'FacultativeHet', 'Elon1': 'Transcribed', "Gen5'": 'Transcribed', 'Repr3': 'FacultativeHet', 'Enh': 'Enhancer', 'Repr4': 'FacultativeHet'}}
+2021-04-21 16:15:00,509 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:16:09,758 INFO - Getting list of reference annotations...
+2021-04-21 16:16:09,758 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:16:09,760 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:16:09,760 INFO - Classifier tab data exists, reading from file.
+2021-04-21 16:16:09,761 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:16:09,761 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:16:09,762 INFO - label_mappings: {'libbrecht2016_RIGHT_ATRIUM': {'9': 'Enhancer', '2': 'Transcribed', '6': 'FacultativeHet', '4': 'Promoter', '5': 'Quiescent', '10': 'ConstitutiveHet', '7': 'ConstitutiveHet', '13': 'Enhancer', '12': 'Unclassified', '8': 'Transcribed', '3': 'Quiescent', '11': 'Enhancer', '1': 'Promoter', '0': 'ConstitutiveHet'}, 'libbrecht2016_H1-HESC': {'9': 'Quiescent', '25': 'Quiescent', '2': 'Quiescent', '18': 'RegPermissive', '6': 'Transcribed', '24': 'Enhancer', '20': 'Transcribed', '5': 'RegPermissive', '7': 'Bivalent', '13': 'Quiescent', '12': 'Quiescent', '8': 'ConstitutiveHet', '3': 'Quiescent', '1': 'RegPermissive', '22': 'FacultativeHet', '21': 'Quiescent', '19': 'Enhancer', '23': 'RegPermissive', '4': 'FacultativeHet', '10': 'Quiescent', '14': 'Bivalent', '16': 'Quiescent', '26': 'Quiescent', '11': 'FacultativeHet', '15': 'Quiescent', '0': 'Transcribed', '17': 'Unclassified'}, 'chromhmm_nar': {'PromP': 'Bivalent', 'Elon': 'Transcribed', 'Tss': 'Promoter', 'DnaseU': 'RegPermissive', 'ElonW': 'Transcribed', 'EnhW': 'RegPermissive', 'Art': 'Unclassified', 'FaireW': 'RegPermissive', 'EnhWF': 'RegPermissive', 'Ctcf': 'Unclassified', 'DnaseD': 'RegPermissive', 'ReprD': 'FacultativeHet', 'Low': 'Quiescent', 'H4K20': 'Unclassified', 'PromF': 'RegPermissive', 'ReprW': 'FacultativeHet', 'TssF': 'RegPermissive', 'CtcfO': 'Unclassified', "Gen3'": 'Transcribed', 'Enh': 'Enhancer', 'Quies': 'Quiescent', 'Repr': 'FacultativeHet', 'EnhF': 'Enhancer', 'Pol2': 'Unclassified', "Gen5'": 'Transcribed'}, 'segway_nar_HUVEC': {'Low3': 'ConstitutiveHet', 'Tss': 'Promoter', "Gen3'": 'Transcribed', 'Low1': 'ConstitutiveHet', "Gen5'": 'Transcribed', 'Low2': 'ConstitutiveHet', 'Repr4': 'FacultativeHet', 'EnhF2': 'Enhancer', 'Repr5': 'FacultativeHet', 'Elon1': 'Transcribed', 'Repr3': 'FacultativeHet', 'EnhW2': 'RegPermissive', 'EnhF1': 'Enhancer', 'Elon2': 'Transcribed', 'CtcfO': 'Unclassified', 'Repr1': 'FacultativeHet', 'ElonW': 'Transcribed', 'Enh': 'Enhancer', 'EnhW1': 'RegPermissive', 'Quies': 'Quiescent', 'Repr7': 'FacultativeHet', 'Faire': 'Unclassified', 'PromF': 'RegPermissive', 'Repr2': 'FacultativeHet', 'Repr6': 'FacultativeHet'}, 'segway_nar_HEPG2': {"Gen5'1": 'Transcribed', 'Elon': 'Transcribed', 'Low3': 'ConstitutiveHet', 'Tss': 'Promoter', 'Low1': 'Quiescent', 'EnhPr': 'Promoter', 'Low2': 'Quiescent', 'Repr3': 'FacultativeHet', 'Repr4': 'Bivalent', 'EnhF2': 'RegPermissive', 'Repr5': 'FacultativeHet', 'EnhW': 'Quiescent', 'PromF': 'RegPermissive', 'Low4': 'Quiescent', 'EnhF1': 'Enhancer', 'PromP1': 'Bivalent', 'Repr1': 'FacultativeHet', 'CtcfO': 'Unclassified', 'ElonW': 'Transcribed', 'Enh': 'Enhancer', "Gen5'2": 'Transcribed', 'Repr6': 'FacultativeHet', 'Repr2': 'FacultativeHet', 'Quies': 'Quiescent', 'PromP2': 'Bivalent'}, 'segway_nar_K562': {'Elon': 'Transcribed', 'Low3': 'Quiescent', 'Tss': 'Promoter', 'EnhF3': 'Promoter', 'Low1': 'Quiescent', "Gen3'1": 'Transcribed', 'Low2': 'Quiescent', "Gen3'2": 'Transcribed', 'Repr4': 'FacultativeHet', 'EnhF2': 'RegPermissive', 'Repr3': 'FacultativeHet', 'PromF': 'RegPermissive', 'Enh1': 'Promoter', 'EnhWf': 'RegPermissive', 'Low4': 'ConstitutiveHet', 'EnhF1': 'RegPermissive', 'EnhP': 'Bivalent', 'Repr1': 'FacultativeHet', 'CtcfO': 'Unclassified', 'ElonW': 'Transcribed', 'Enh2': 'RegPermissive', 'Low5': 'Quiescent', 'Low6': 'ConstitutiveHet', 'Repr2': 'FacultativeHet', 'Quies': 'Quiescent'}, 'roadmap25': {'25_Quies': 'Quiescent', '8_TxWk': 'Transcribed', '24_ReprPC': 'FacultativeHet', '6_Tx': 'Transcribed', '1_TssA': 'Promoter', '19_DNase': 'RegPermissive', '18_EnhAc': 'RegPermissive', "10_TxEnh5'": 'RegPermissive', '2_PromU': 'RegPermissive', '16_EnhW1': 'RegPermissive', "7_Tx3'": 'Transcribed', "11_TxEnh3'": 'Transcribed', '23_PromBiv': 'Bivalent', '17_EnhW2': 'RegPermissive', '13_EnhA1': 'Enhancer', '9_TxReg': 'Unclassified', '12_TxEnhW': 'RegPermissive', '22_PromP': 'Promoter', '20_ZNF/Rpts': 'ConstitutiveHet', '4_PromD2': 'RegPermissive', '15_EnhAF': 'RegPermissive', "5_Tx5'": 'Unclassified', '14_EnhA2': 'Enhancer', '3_PromD1': 'RegPermissive', '21_Het': 'ConstitutiveHet'}, 'roadmap15': {'15_Quies': 'Quiescent', '3_TxFlnk': 'Transcribed', '5_TxWk': 'Transcribed', '8_ZNF/Rpts': 'ConstitutiveHet', '1_TssA': 'Promoter', '13_ReprPC': 'FacultativeHet', '9_Het': 'ConstitutiveHet', '10_TssBiv': 'Bivalent', '11_BivFlnk': 'Bivalent', '2_TssAFlnk': 'RegPermissive', '4_Tx': 'Transcribed', '7_Enh': 'RegPermissive', '14_ReprPCWk': 'FacultativeHet', '6_EnhG': 'Unclassified', '12_EnhBiv': 'Bivalent'}, 'chromhmm9': {'9_Txn_Transition': 'Transcribed', '8_Insulator': 'Unclassified', '6_Weak_Enhancer': 'RegPermissive', '13_Heterochrom/lo': 'Quiescent', '12_Repressed': 'FacultativeHet', '4_Strong_Enhancer': 'Enhancer', '1_Active_Promoter': 'Promoter', '3_Poised_Promoter': 'Bivalent', '15_Repetitive/CNV': 'ConstitutiveHet', '11_Weak_Txn': 'Transcribed', '2_Weak_Promoter': 'Promoter', '14_Repetitive/CNV': 'ConstitutiveHet', '5_Strong_Enhancer': 'Enhancer', '7_Weak_Enhancer': 'RegPermissive', '10_Txn_Elongation': 'Transcribed'}, 'segway_nar_GM12878': {'Low3': 'Quiescent', 'Tss': 'Promoter', "Gen3'": 'Transcribed', 'Low1': 'Quiescent', 'Low2': 'ConstitutiveHet', 'Repr4': 'FacultativeHet', 'Low5': 'Quiescent', 'Repr5': 'FacultativeHet', 'Elon1': 'Transcribed', 'Repr3': 'FacultativeHet', 'EnhWf': 'RegPermissive', 'TssF': 'RegPermissive', 'Low4': 'Quiescent', 'PromF': 'RegPermissive', 'Elon2': 'Transcribed', 'CtcfO': 'Unclassified', 'Repr1': 'FacultativeHet', 'ElonW': 'Transcribed', 'Enh': 'Enhancer', 'Ctcf': 'Unclassified', "Gen5'": 'Transcribed', 'EnhF': 'Enhancer', 'Low6': 'Quiescent', 'Repr2': 'FacultativeHet', 'Quies': 'Quiescent'}, 'segway_nar_H1-HESC': {'PromP': 'Bivalent', 'Elon': 'Transcribed', 'Low5': 'Quiescent', 'Tss': 'Promoter', 'EnhWf1': 'RegPermissive', 'Low7': 'Quiescent', 'Faire': 'Unclassified', 'Low1': 'Quiescent', 'EnhPr': 'RegPermissive', 'Low2': 'Quiescent', 'Low3': 'ConstitutiveHet', 'DnaseD': 'Unclassified', 'TssF': 'RegPermissive', 'ElonW3': 'Quiescent', 'Low4': 'FacultativeHet', 'PromF': 'RegPermissive', 'EnhWf3': 'Quiescent', 'ElonW2': 'Quiescent', 'ElonW1': 'Quiescent', "Gen3'": 'Transcribed', 'EnhWf2': 'RegPermissive', 'Repr': 'FacultativeHet', 'Low6': 'Quiescent', 'CtcfO': 'Unclassified', 'Quies': 'Quiescent'}, 'libbrecht2016_HSMM': {'9': 'Transcribed', '2': 'Enhancer', '6': 'Quiescent', '7': 'Transcribed', '4': 'FacultativeHet', '5': 'Quiescent', '12': 'Quiescent', '14': 'Transcribed', '13': 'FacultativeHet', '10': 'ConstitutiveHet', '16': 'Promoter', '8': 'Promoter', '3': 'RegPermissive', '11': 'ConstitutiveHet', '15': 'RegPermissive', '1': 'ConstitutiveHet', '0': 'Unclassified'}, 'libbrecht2016_AG04449': {'9': 'Quiescent', '2': 'Enhancer', '6': 'Promoter', '4': 'Promoter', '5': 'Quiescent', '10': 'Enhancer', '7': 'Quiescent', '12': 'RegPermissive', '8': 'Quiescent', '3': 'Quiescent', '11': 'Promoter', '1': 'Quiescent', '0': 'Promoter'}, 'roadmap18': {'13_Het': 'ConstitutiveHet', '9_EnhA1': 'Enhancer', '16_ReprPC': 'FacultativeHet', '6_TxWk': 'Transcribed', '2_TssFlnk': 'RegPermissive', '1_TssA': 'Promoter', '17_ReprPCWk': 'FacultativeHet', '7_EnhG1': 'Unclassified', '5_Tx': 'Transcribed', '8_EnhG2': 'Unclassified', '3_TssFlnkU': 'RegPermissive', '15_EnhBiv': 'Bivalent', '4_TssFlnkD': 'RegPermissive', '14_TssBiv': 'Bivalent', '10_EnhA2': 'Enhancer', '18_Quies': 'Quiescent', '12_ZNF/Rpts': 'ConstitutiveHet', '11_EnhWk': 'RegPermissive'}}
+2021-04-21 16:16:09,763 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:16:09,763 INFO - Rscript ./reference/features.R
+2021-04-21 16:16:20,925 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:16:20,986 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:16:20,988 INFO - Starting regularization parameter grid search
+2021-04-21 16:16:20,988 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 16:16:20,989 INFO - Starting regularization parameter 16
+2021-04-21 16:16:23,194 INFO - Starting regularization parameter 32
+2021-04-21 16:16:25,163 INFO - Starting regularization parameter 64
+2021-04-21 16:16:26,886 INFO - Rscript ./xval/scores.R
+2021-04-21 16:16:27,526 INFO - Rscript ./xval/confusion.R
+2021-04-21 16:16:28,863 INFO - Training final model...
+2021-04-21 16:16:28,864 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 17:38:17,850 INFO - Starting classifying our annotation labels...
+2021-04-21 17:38:17,851 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 17:38:17,852 INFO - Starting ann 0/39 0...
+2021-04-21 18:07:54,533 INFO - Starting classifying our annotation labels...
+2021-04-21 18:07:54,534 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 18:07:54,534 INFO - Found mnemonics for  0, skipping.
+2021-04-21 18:07:54,534 INFO - Starting ann 1/39 1...
+2021-04-21 18:07:54,656 INFO - Starting ann 2/39 2...
+2021-04-21 18:07:54,775 INFO - Starting ann 3/39 3...
+2021-04-21 18:07:54,933 INFO - Starting ann 4/39 4...
+2021-04-21 18:07:55,056 INFO - Starting ann 5/39 5...
+2021-04-21 18:07:55,174 INFO - Starting ann 6/39 6...
+2021-04-21 18:07:55,296 INFO - Starting ann 7/39 7...
+2021-04-21 18:07:55,416 INFO - Starting ann 8/39 8...
+2021-04-21 18:07:55,537 INFO - Starting ann 9/39 9...
+2021-04-21 18:07:55,657 INFO - Starting ann 10/39 10...
+2021-04-21 18:07:55,776 INFO - Starting ann 11/39 11...
+2021-04-21 18:07:55,894 INFO - Starting ann 12/39 12...
+2021-04-21 18:07:55,977 INFO - Starting ann 13/39 13...
+2021-04-21 18:07:56,057 INFO - Starting ann 14/39 14...
+2021-04-21 18:07:56,138 INFO - Starting ann 15/39 15...
+2021-04-21 18:07:56,218 INFO - Starting ann 16/39 16...
+2021-04-21 18:07:56,300 INFO - Starting ann 17/39 17...
+2021-04-21 18:07:56,381 INFO - Starting ann 18/39 18...
+2021-04-21 18:07:56,460 INFO - Starting ann 19/39 19...
+2021-04-21 18:07:56,542 INFO - Starting ann 20/39 20...
+2021-04-21 18:07:56,624 INFO - Starting ann 21/39 21...
+2021-04-21 18:07:56,704 INFO - Starting ann 22/39 22...
+2021-04-21 18:07:56,798 INFO - Starting ann 23/39 23...
+2021-04-21 18:07:56,916 INFO - Starting ann 24/39 24...
+2021-04-21 18:07:56,999 INFO - Starting ann 25/39 25...
+2021-04-21 18:07:57,089 INFO - Starting ann 26/39 26...
+2021-04-21 18:07:57,209 INFO - Starting ann 27/39 27...
+2021-04-21 18:07:57,288 INFO - Starting ann 28/39 28...
+2021-04-21 18:07:57,380 INFO - Starting ann 29/39 29...
+2021-04-21 18:07:57,497 INFO - Starting ann 30/39 30...
+2021-04-21 18:07:57,577 INFO - Starting ann 31/39 31...
+2021-04-21 18:07:57,671 INFO - Starting ann 32/39 32...
+2021-04-21 18:07:57,794 INFO - Starting ann 33/39 33...
+2021-04-21 18:07:57,874 INFO - Starting ann 34/39 34...
+2021-04-21 18:07:57,968 INFO - Starting ann 35/39 35...
+2021-04-21 18:07:58,086 INFO - Starting ann 36/39 36...
+2021-04-21 18:07:58,168 INFO - Starting ann 37/39 37...
+2021-04-21 18:07:58,260 INFO - Starting ann 38/39 38...
+2021-04-21 18:08:27,837 INFO - Starting classifying our annotation labels...
+2021-04-21 18:08:27,840 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 18:08:27,840 INFO - Found mnemonics for  0, skipping.
+2021-04-21 18:08:27,840 INFO - Found mnemonics for  1, skipping.
+2021-04-21 18:08:27,841 INFO - Found mnemonics for  2, skipping.
+2021-04-21 18:08:27,841 INFO - Found mnemonics for  3, skipping.
+2021-04-21 18:08:27,841 INFO - Found mnemonics for  4, skipping.
+2021-04-21 18:08:27,841 INFO - Found mnemonics for  5, skipping.
+2021-04-21 18:08:27,841 INFO - Found mnemonics for  6, skipping.
+2021-04-21 18:08:27,841 INFO - Found mnemonics for  7, skipping.
+2021-04-21 18:08:27,841 INFO - Found mnemonics for  8, skipping.
+2021-04-21 18:08:27,842 INFO - Found mnemonics for  9, skipping.
+2021-04-21 18:08:27,842 INFO - Found mnemonics for  10, skipping.
+2021-04-21 18:08:27,842 INFO - Found mnemonics for  11, skipping.
+2021-04-21 18:08:27,842 INFO - Found mnemonics for  12, skipping.
+2021-04-21 18:08:27,842 INFO - Found mnemonics for  13, skipping.
+2021-04-21 18:08:27,842 INFO - Found mnemonics for  14, skipping.
+2021-04-21 18:08:27,843 INFO - Found mnemonics for  15, skipping.
+2021-04-21 18:08:27,843 INFO - Found mnemonics for  16, skipping.
+2021-04-21 18:08:27,843 INFO - Found mnemonics for  17, skipping.
+2021-04-21 18:08:27,843 INFO - Found mnemonics for  18, skipping.
+2021-04-21 18:08:27,843 INFO - Found mnemonics for  19, skipping.
+2021-04-21 18:08:27,843 INFO - Found mnemonics for  20, skipping.
+2021-04-21 18:08:27,844 INFO - Found mnemonics for  21, skipping.
+2021-04-21 18:08:27,844 INFO - Found mnemonics for  22, skipping.
+2021-04-21 18:08:27,844 INFO - Found mnemonics for  23, skipping.
+2021-04-21 18:08:27,844 INFO - Found mnemonics for  24, skipping.
+2021-04-21 18:08:27,844 INFO - Found mnemonics for  25, skipping.
+2021-04-21 18:08:27,844 INFO - Found mnemonics for  26, skipping.
+2021-04-21 18:08:27,844 INFO - Found mnemonics for  27, skipping.
+2021-04-21 18:08:27,845 INFO - Found mnemonics for  28, skipping.
+2021-04-21 18:08:27,845 INFO - Found mnemonics for  29, skipping.
+2021-04-21 18:08:27,845 INFO - Found mnemonics for  30, skipping.
+2021-04-21 18:08:27,845 INFO - Found mnemonics for  31, skipping.
+2021-04-21 18:08:27,845 INFO - Found mnemonics for  32, skipping.
+2021-04-21 18:08:27,845 INFO - Found mnemonics for  33, skipping.
+2021-04-21 18:08:27,845 INFO - Found mnemonics for  34, skipping.
+2021-04-21 18:08:27,846 INFO - Found mnemonics for  35, skipping.
+2021-04-21 18:08:27,846 INFO - Found mnemonics for  36, skipping.
+2021-04-21 18:08:27,846 INFO - Found mnemonics for  37, skipping.
+2021-04-21 18:08:27,846 INFO - Found mnemonics for  38, skipping.
+2021-04-21 19:33:40,500 INFO - Starting classifying our annotation labels...
+2021-04-21 19:33:40,501 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-21 19:34:04,300 INFO - Found mnemonics for  0, skipping.
+2021-04-21 19:34:04,300 INFO - Found mnemonics for  1, skipping.
+2021-04-21 19:34:04,303 INFO - Found mnemonics for  2, skipping.
+2021-04-21 19:34:04,303 INFO - Found mnemonics for  3, skipping.
+2021-04-21 19:34:04,303 INFO - Found mnemonics for  4, skipping.
+2021-04-21 19:34:04,303 INFO - Found mnemonics for  5, skipping.
+2021-04-21 19:34:04,303 INFO - Found mnemonics for  6, skipping.
+2021-04-21 19:34:04,303 INFO - Found mnemonics for  7, skipping.
+2021-04-21 19:34:04,304 INFO - Found mnemonics for  8, skipping.
+2021-04-21 19:34:04,304 INFO - Found mnemonics for  9, skipping.
+2021-04-21 19:34:04,304 INFO - Found mnemonics for  10, skipping.
+2021-04-21 19:34:04,304 INFO - Found mnemonics for  11, skipping.
+2021-04-21 19:34:04,304 INFO - Found mnemonics for  12, skipping.
+2021-04-21 19:34:04,304 INFO - Found mnemonics for  13, skipping.
+2021-04-21 19:34:04,304 INFO - Found mnemonics for  14, skipping.
+2021-04-21 19:34:04,304 INFO - Found mnemonics for  15, skipping.
+2021-04-21 19:34:04,304 INFO - Found mnemonics for  16, skipping.
+2021-04-21 19:34:04,304 INFO - Found mnemonics for  17, skipping.
+2021-04-21 19:34:04,304 INFO - Found mnemonics for  18, skipping.
+2021-04-21 19:34:04,304 INFO - Found mnemonics for  19, skipping.
+2021-04-21 19:34:04,304 INFO - Found mnemonics for  20, skipping.
+2021-04-21 19:34:04,305 INFO - Found mnemonics for  21, skipping.
+2021-04-21 19:34:04,305 INFO - Found mnemonics for  22, skipping.
+2021-04-21 19:34:04,305 INFO - Found mnemonics for  23, skipping.
+2021-04-21 19:34:04,305 INFO - Found mnemonics for  24, skipping.
+2021-04-21 19:34:04,305 INFO - Found mnemonics for  25, skipping.
+2021-04-21 19:34:04,305 INFO - Found mnemonics for  26, skipping.
+2021-04-21 19:34:04,305 INFO - Found mnemonics for  27, skipping.
+2021-04-21 19:34:04,307 INFO - Found mnemonics for  28, skipping.
+2021-04-21 19:34:04,307 INFO - Found mnemonics for  29, skipping.
+2021-04-21 19:34:04,307 INFO - Found mnemonics for  30, skipping.
+2021-04-21 19:34:04,307 INFO - Found mnemonics for  31, skipping.
+2021-04-21 19:34:04,307 INFO - Found mnemonics for  32, skipping.
+2021-04-21 19:34:04,307 INFO - Found mnemonics for  33, skipping.
+2021-04-21 19:34:04,307 INFO - Found mnemonics for  34, skipping.
+2021-04-21 19:34:04,308 INFO - Found mnemonics for  35, skipping.
+2021-04-21 19:34:04,308 INFO - Found mnemonics for  36, skipping.
+2021-04-21 19:34:04,308 INFO - Found mnemonics for  37, skipping.
+2021-04-21 19:34:04,308 INFO - Found mnemonics for  38, skipping.
+2021-04-27 02:03:27,568 INFO - Getting list of reference annotations...
+2021-04-27 02:03:27,569 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-27 02:14:28,225 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-27 02:16:40,673 INFO - Classifier tab data exists, reading from file.
+2021-04-27 02:16:40,673 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-27 02:17:27,576 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2021-04-27 02:17:27,577 INFO - label_mappings: {'libbrecht2016_AG04449': {'0': 'Promoter', '9': 'Quiescent', '11': 'Promoter', '7': 'Quiescent', '5': 'Quiescent', '1': 'Quiescent', '3': 'Quiescent', '4': 'Promoter', '12': 'RegPermissive', '10': 'Enhancer', '6': 'Promoter', '2': 'Enhancer', '8': 'Quiescent'}, 'segway_nar_HEPG2': {"Gen5'2": 'Transcribed', 'CtcfO': 'Unclassified', 'Repr4': 'Bivalent', 'Repr5': 'FacultativeHet', 'Repr1': 'FacultativeHet', 'Enh': 'Enhancer', 'Low3': 'ConstitutiveHet', 'EnhW': 'Quiescent', 'PromF': 'RegPermissive', 'Repr2': 'FacultativeHet', 'Repr6': 'FacultativeHet', 'EnhF2': 'RegPermissive', 'Low2': 'Quiescent', 'EnhF1': 'Enhancer', 'Tss': 'Promoter', "Gen5'1": 'Transcribed', 'ElonW': 'Transcribed', 'Quies': 'Quiescent', 'PromP2': 'Bivalent', 'EnhPr': 'Promoter', 'Low1': 'Quiescent', 'Low4': 'Quiescent', 'Repr3': 'FacultativeHet', 'Elon': 'Transcribed', 'PromP1': 'Bivalent'}, 'roadmap25': {'24_ReprPC': 'FacultativeHet', '8_TxWk': 'Transcribed', '9_TxReg': 'Unclassified', '21_Het': 'ConstitutiveHet', '12_TxEnhW': 'RegPermissive', '22_PromP': 'Promoter', "10_TxEnh5'": 'RegPermissive', '20_ZNF/Rpts': 'ConstitutiveHet', '3_PromD1': 'RegPermissive', '13_EnhA1': 'Enhancer', "7_Tx3'": 'Transcribed', '23_PromBiv': 'Bivalent', '17_EnhW2': 'RegPermissive', '25_Quies': 'Quiescent', "5_Tx5'": 'Unclassified', '2_PromU': 'RegPermissive', '18_EnhAc': 'RegPermissive', '1_TssA': 'Promoter', '19_DNase': 'RegPermissive', '15_EnhAF': 'RegPermissive', '14_EnhA2': 'Enhancer', '4_PromD2': 'RegPermissive', '16_EnhW1': 'RegPermissive', "11_TxEnh3'": 'Transcribed', '6_Tx': 'Transcribed'}, 'libbrecht2016_HSMM': {'0': 'Unclassified', '13': 'FacultativeHet', '7': 'Transcribed', '11': 'ConstitutiveHet', '1': 'ConstitutiveHet', '5': 'Quiescent', '14': 'Transcribed', '4': 'FacultativeHet', '3': 'RegPermissive', '9': 'Transcribed', '12': 'Quiescent', '10': 'ConstitutiveHet', '6': 'Quiescent', '8': 'Promoter', '2': 'Enhancer', '16': 'Promoter', '15': 'RegPermissive'}, 'segway_nar_K562': {'Low6': 'ConstitutiveHet', 'CtcfO': 'Unclassified', 'Repr4': 'FacultativeHet', "Gen3'1": 'Transcribed', 'EnhF3': 'Promoter', 'Low5': 'Quiescent', 'Enh2': 'RegPermissive', 'Repr1': 'FacultativeHet', 'Low3': 'Quiescent', 'Low4': 'ConstitutiveHet', 'Repr2': 'FacultativeHet', 'EnhF2': 'RegPermissive', 'Low2': 'Quiescent', 'Tss': 'Promoter', 'EnhP': 'Bivalent', 'ElonW': 'Transcribed', 'Quies': 'Quiescent', 'Enh1': 'Promoter', 'Low1': 'Quiescent', 'EnhWf': 'RegPermissive', 'PromF': 'RegPermissive', 'Repr3': 'FacultativeHet', "Gen3'2": 'Transcribed', 'Elon': 'Transcribed', 'EnhF1': 'RegPermissive'}, 'segway_nar_GM12878': {'Low6': 'Quiescent', 'CtcfO': 'Unclassified', 'Repr4': 'FacultativeHet', 'Ctcf': 'Unclassified', 'Low5': 'Quiescent', 'Low4': 'Quiescent', 'Repr1': 'FacultativeHet', 'Enh': 'Enhancer', 'Low3': 'Quiescent', 'ElonW': 'Transcribed', 'Repr2': 'FacultativeHet', 'Repr5': 'FacultativeHet', "Gen5'": 'Transcribed', 'Low2': 'ConstitutiveHet', 'Tss': 'Promoter', 'Elon1': 'Transcribed', 'Quies': 'Quiescent', "Gen3'": 'Transcribed', 'Low1': 'Quiescent', 'EnhWf': 'RegPermissive', 'PromF': 'RegPermissive', 'Repr3': 'FacultativeHet', 'Elon2': 'Transcribed', 'EnhF': 'Enhancer', 'TssF': 'RegPermissive'}, 'libbrecht2016_RIGHT_ATRIUM': {'13': 'Enhancer', '9': 'Enhancer', '11': 'Enhancer', '7': 'ConstitutiveHet', '5': 'Quiescent', '1': 'Promoter', '3': 'Quiescent', '2': 'Transcribed', '4': 'Promoter', '12': 'Unclassified', '10': 'ConstitutiveHet', '6': 'FacultativeHet', '0': 'ConstitutiveHet', '8': 'Transcribed'}, 'libbrecht2016_H1-HESC': {'25': 'Quiescent', '9': 'Quiescent', '1': 'RegPermissive', '10': 'Quiescent', '19': 'Enhancer', '22': 'FacultativeHet', '3': 'Quiescent', '13': 'Quiescent', '18': 'RegPermissive', '14': 'Bivalent', '6': 'Transcribed', '12': 'Quiescent', '2': 'Quiescent', '24': 'Enhancer', '8': 'ConstitutiveHet', '23': 'RegPermissive', '20': 'Transcribed', '11': 'FacultativeHet', '7': 'Bivalent', '5': 'RegPermissive', '26': 'Quiescent', '17': 'Unclassified', '4': 'FacultativeHet', '16': 'Quiescent', '21': 'Quiescent', '0': 'Transcribed', '15': 'Quiescent'}, 'roadmap15': {'4_Tx': 'Transcribed', '10_TssBiv': 'Bivalent', '8_ZNF/Rpts': 'ConstitutiveHet', '9_Het': 'ConstitutiveHet', '3_TxFlnk': 'Transcribed', '15_Quies': 'Quiescent', '5_TxWk': 'Transcribed', '2_TssAFlnk': 'RegPermissive', '11_BivFlnk': 'Bivalent', '6_EnhG': 'Unclassified', '7_Enh': 'RegPermissive', '12_EnhBiv': 'Bivalent', '13_ReprPC': 'FacultativeHet', '1_TssA': 'Promoter', '14_ReprPCWk': 'FacultativeHet'}, 'chromhmm_nar': {'EnhWF': 'RegPermissive', 'FaireW': 'RegPermissive', 'PromP': 'Bivalent', 'DnaseU': 'RegPermissive', 'Low': 'Quiescent', 'Ctcf': 'Unclassified', 'PromF': 'RegPermissive', 'Repr': 'FacultativeHet', 'Pol2': 'Unclassified', 'Enh': 'Enhancer', 'EnhW': 'RegPermissive', 'ReprW': 'FacultativeHet', 'ElonW': 'Transcribed', 'CtcfO': 'Unclassified', 'H4K20': 'Unclassified', "Gen5'": 'Transcribed', 'ReprD': 'FacultativeHet', 'Tss': 'Promoter', 'Quies': 'Quiescent', "Gen3'": 'Transcribed', 'Elon': 'Transcribed', 'DnaseD': 'RegPermissive', 'Art': 'Unclassified', 'EnhF': 'Enhancer', 'TssF': 'RegPermissive'}, 'segway_nar_H1-HESC': {'Low6': 'Quiescent', 'PromP': 'Bivalent', 'ElonW2': 'Quiescent', 'Faire': 'Unclassified', 'EnhWf2': 'RegPermissive', 'Low5': 'Quiescent', 'Repr': 'FacultativeHet', 'ElonW1': 'Quiescent', 'ElonW3': 'Quiescent', 'Low3': 'ConstitutiveHet', 'EnhWf3': 'Quiescent', 'Low7': 'Quiescent', 'PromF': 'RegPermissive', 'CtcfO': 'Unclassified', 'Low2': 'Quiescent', 'DnaseD': 'Unclassified', 'Tss': 'Promoter', 'EnhWf1': 'RegPermissive', 'Quies': 'Quiescent', "Gen3'": 'Transcribed', 'EnhPr': 'RegPermissive', 'Low1': 'Quiescent', 'Low4': 'FacultativeHet', 'Elon': 'Transcribed', 'TssF': 'RegPermissive'}, 'chromhmm9': {'6_Weak_Enhancer': 'RegPermissive', '13_Heterochrom/lo': 'Quiescent', '7_Weak_Enhancer': 'RegPermissive', '15_Repetitive/CNV': 'ConstitutiveHet', '10_Txn_Elongation': 'Transcribed', '8_Insulator': 'Unclassified', '12_Repressed': 'FacultativeHet', '1_Active_Promoter': 'Promoter', '14_Repetitive/CNV': 'ConstitutiveHet', '5_Strong_Enhancer': 'Enhancer', '11_Weak_Txn': 'Transcribed', '3_Poised_Promoter': 'Bivalent', '4_Strong_Enhancer': 'Enhancer', '9_Txn_Transition': 'Transcribed', '2_Weak_Promoter': 'Promoter'}, 'roadmap18': {'4_TssFlnkD': 'RegPermissive', '10_EnhA2': 'Enhancer', '18_Quies': 'Quiescent', '17_ReprPCWk': 'FacultativeHet', '7_EnhG1': 'Unclassified', '8_EnhG2': 'Unclassified', '3_TssFlnkU': 'RegPermissive', '2_TssFlnk': 'RegPermissive', '9_EnhA1': 'Enhancer', '15_EnhBiv': 'Bivalent', '11_EnhWk': 'RegPermissive', '5_Tx': 'Transcribed', '12_ZNF/Rpts': 'ConstitutiveHet', '6_TxWk': 'Transcribed', '14_TssBiv': 'Bivalent', '13_Het': 'ConstitutiveHet', '1_TssA': 'Promoter', '16_ReprPC': 'FacultativeHet'}, 'segway_nar_HUVEC': {'CtcfO': 'Unclassified', 'Repr4': 'FacultativeHet', 'Faire': 'Unclassified', 'Repr6': 'FacultativeHet', 'Repr1': 'FacultativeHet', 'Repr7': 'FacultativeHet', 'EnhW1': 'RegPermissive', 'Enh': 'Enhancer', 'Low3': 'ConstitutiveHet', 'ElonW': 'Transcribed', 'PromF': 'RegPermissive', 'Repr2': 'FacultativeHet', 'Repr5': 'FacultativeHet', "Gen5'": 'Transcribed', 'EnhF2': 'Enhancer', 'Low2': 'ConstitutiveHet', 'Tss': 'Promoter', 'Elon1': 'Transcribed', 'Quies': 'Quiescent', "Gen3'": 'Transcribed', 'Low1': 'ConstitutiveHet', 'EnhW2': 'RegPermissive', 'Repr3': 'FacultativeHet', 'Elon2': 'Transcribed', 'EnhF1': 'Enhancer'}}
+2021-04-27 02:17:27,579 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb

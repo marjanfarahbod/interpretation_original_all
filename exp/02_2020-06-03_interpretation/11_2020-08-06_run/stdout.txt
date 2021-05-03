@@ -1,0 +1,25 @@
+2020-08-06 19:03:06,222 INFO - Getting list of reference annotations...
+2020-08-06 19:03:06,222 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:03:06,224 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:03:06,224 INFO - Creating classifier tab data...
+2020-08-06 19:03:06,224 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-06 19:03:06,224 INFO - Starting concatenation_key: roadmap25
+2020-08-06 19:03:06,667 INFO - Found labels: set(['16_EnhW1', '4_PromD2', '6_Tx', '14_EnhA2', '19_DNase', '24_ReprPC', '21_Het', '22_PromP', '18_EnhAc', "7_Tx3'", '17_EnhW2', '15_EnhAF', '20_ZNF/Rpts', "10_TxEnh5'", '12_TxEnhW', '1_TssA', "5_Tx5'", '25_Quies', '2_PromU', '8_TxWk', '3_PromD1', '13_EnhA1', '23_PromBiv', '9_TxReg', "11_TxEnh3'"])
+2020-08-06 19:03:07,144 INFO - Starting concatenation_key: segway_nar_HEPG2
+2020-08-06 19:03:07,221 INFO - Found labels: set(['EnhF1', 'EnhF2', 'CtcfO', 'PromF', 'Enh', 'Repr4', 'Repr5', 'Repr2', 'Repr3', 'Repr1', 'Tss', 'EnhPr', 'ElonW', 'PromP2', "Gen5'1", "Gen5'2", 'EnhW', 'Repr6', 'Low4', 'Low2', 'Low3', 'Low1', 'Elon', 'PromP1', 'Quies'])
+2020-08-06 19:03:07,302 INFO - Starting concatenation_key: segway_nar_GM12878
+2020-08-06 19:03:07,377 INFO - Found labels: set(['Elon1', 'PromF', 'Elon2', 'CtcfO', 'EnhWf', 'Enh', 'Repr4', 'Repr5', 'Repr2', 'Repr3', 'Repr1', 'TssF', "Gen5'", 'Tss', 'Ctcf', 'EnhF', 'ElonW', 'Low6', 'Low4', 'Low5', 'Low2', 'Low3', 'Low1', "Gen3'", 'Quies'])
+2020-08-06 19:03:07,458 INFO - Starting concatenation_key: roadmap15
+2020-08-06 19:03:07,727 INFO - Found labels: set(['13_ReprPC', '6_EnhG', '3_TxFlnk', '1_TssA', '14_ReprPCWk', '2_TssAFlnk', '11_BivFlnk', '7_Enh', '12_EnhBiv', '4_Tx', '10_TssBiv', '15_Quies', '8_ZNF/Rpts', '9_Het', '5_TxWk'])
+2020-08-06 19:03:08,018 INFO - Starting concatenation_key: segway_nar_H1-HESC
+2020-08-06 19:03:08,096 INFO - Found labels: set(['PromF', 'CtcfO', 'Faire', 'DnaseD', 'Quies', 'Elon', 'PromP', 'TssF', 'ElonW3', 'ElonW2', 'ElonW1', "Gen3'", 'EnhPr', 'Repr', 'Tss', 'Low6', 'Low7', 'Low4', 'Low5', 'Low2', 'Low3', 'Low1', 'EnhWf2', 'EnhWf3', 'EnhWf1'])
+2020-08-06 19:03:08,182 INFO - Starting concatenation_key: segway_nar_HUVEC
+2020-08-06 19:03:08,261 INFO - Found labels: set(['Elon1', 'EnhF1', 'EnhF2', 'Elon2', 'CtcfO', 'Faire', 'PromF', 'Enh', 'Repr7', 'Repr4', 'Repr5', 'Repr2', 'Repr3', 'Repr1', 'EnhW2', 'EnhW1', "Gen5'", 'Tss', 'ElonW', 'Repr6', 'Low2', 'Low3', 'Low1', "Gen3'", 'Quies'])
+2020-08-06 19:03:08,348 INFO - Starting concatenation_key: chromhmm_nar
+2020-08-06 19:03:08,734 INFO - Found labels: set(['PromF', 'CtcfO', 'Enh', 'Low', 'PromP', 'TssF', 'Tss', 'Ctcf', 'EnhF', 'Pol2', 'ElonW', 'Repr', 'EnhW', 'DnaseD', 'Quies', "Gen5'", 'DnaseU', 'FaireW', 'EnhWF', 'Art', 'H4K20', 'ReprW', 'Elon', "Gen3'", 'ReprD'])
+2020-08-06 19:03:09,142 INFO - Starting concatenation_key: chromhmm9
+2020-08-06 19:03:09,564 INFO - Found labels: set(['13_Heterochrom/lo', '2_Weak_Promoter', '5_Strong_Enhancer', '3_Poised_Promoter', '6_Weak_Enhancer', '10_Txn_Elongation', '9_Txn_Transition', '7_Weak_Enhancer', '15_Repetitive/CNV', '12_Repressed', '4_Strong_Enhancer', '11_Weak_Txn', '8_Insulator', '14_Repetitive/CNV', '1_Active_Promoter'])
+2020-08-06 19:03:10,005 INFO - Starting concatenation_key: segway_nar_K562
+2020-08-06 19:03:10,082 INFO - Found labels: set(["Gen3'2", 'EnhF1', 'EnhF2', 'EnhF3', 'CtcfO', 'PromF', 'Repr4', 'Repr2', 'Repr3', 'Repr1', "Gen3'1", 'Enh1', 'Enh2', 'Tss', 'ElonW', 'Low6', 'Low4', 'Low5', 'Low2', 'EnhP', 'EnhWf', 'Low1', 'Elon', 'Quies', 'Low3'])
+2020-08-06 19:03:10,168 INFO - Starting concatenation_key: roadmap18
+2020-08-06 19:03:10,508 INFO - Found labels: set(['5_Tx', '6_TxWk', '15_EnhBiv', '10_EnhA2', '14_TssBiv', '1_TssA', '9_EnhA1', '7_EnhG1', '13_Het', '2_TssFlnk', '17_ReprPCWk', '3_TssFlnkU', '4_TssFlnkD', '11_EnhWk', '18_Quies', '8_EnhG2', '16_ReprPC', '12_ZNF/Rpts'])

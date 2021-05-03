@@ -1,0 +1,6 @@
+2020-08-03 18:19:29,300 INFO - Getting list of reference annotations...
+2020-08-03 18:19:29,301 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:19:29,301 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:19:29,302 INFO - Creating classifier tab data...
+2020-08-03 18:19:29,302 INFO - Memory usage -- resource: 0.1 gb; psutil: 0.1 gb
+2020-08-03 18:19:29,302 INFO - Starting concatenation_key: roadmap25

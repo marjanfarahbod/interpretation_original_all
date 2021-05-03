@@ -1,0 +1,31 @@
+<div class="module" id="signal_distribution_signal_distribution">
+  <h2><a href="#">^</a>  Signal value statistics (files.genomedata)</h2>
+  <ul>
+    <li> The mean and standard deviation of the signal values for each
+      track (row) within segments of each label (column). 
+      The background color of each cell
+      corresponds to the track-normalized mean signal value, mean_n. 
+      The standard deviations are first adjusted according to the mean
+      normalization to create a sd_n value for each track. 
+      But, if max(sd_n) > 1 (at least one track has a standard deviation 
+      greater than its mean), all sd_n are scaled by a constant K = max(sd_n). 
+      Thus, 0 <= mean_n <= 1, and 0 <= sd_n/K <= 1.
+      The horizontal bar inside each cell has a width proportional to the
+      standard deviation (sd_n/K), and, if it is filled with colors,
+      these colors correspond to mean_n +/- sd_n/K.
+      Column-wise hierarchical
+      clustering is used to group similar labels together, and
+      mnemonics are assigned according to this label clustering.
+      <br />
+      <a href="$slidefilename">
+        <img src="$thumbfilename" />
+      </a>
+      <br />
+      [ <a href="$pngfilename">PNG</a> ]
+      [ <a href="$slidefilename">SLIDE</a> ]
+      [ <a href="signal_distribution/signal_distribution.pdf">PDF</a> ]
+      [ <a href="signal_distribution/signal_distribution.tab">TAB</a> ]
+    </li>
+  </ul>
+</div>
+

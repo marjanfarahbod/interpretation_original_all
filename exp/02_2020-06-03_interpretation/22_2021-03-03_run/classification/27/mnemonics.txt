@@ -1,0 +1,16 @@
+old	new
+13_ReprPC	FacultativeHet
+6_EnhG	LowConfidence
+12_EnhBiv	Bivalent
+3_TxFlnk	Transcribed
+1_TssA	Transcribed
+4_Tx	FacultativeHet
+11_BivFlnk	Bivalent
+10_TssBiv	Transcribed
+14_ReprPCWk	FacultativeHet
+2_TssAFlnk	Bivalent
+15_Quies	Quiescent
+8_ZNF/Rpts	FacultativeHet
+9_Het	Quiescent
+5_TxWk	RegPermissive
+7_Enh	RegPermissive

@@ -1,0 +1,295 @@
+concatenation_key	orig_label	new_label	reason
+chromhmm9	3_Poised_Promoter	Bivalent
+chromhmm_nar	PromP	Bivalent
+libbrecht2016_H1-HESC	14	Bivalent	k27me3,reg
+libbrecht2016_H1-HESC	7	Bivalent	k27me3,reg
+roadmap15	10_TssBiv	Bivalent
+roadmap15	11_BivFlnk	Bivalent
+roadmap15	12_EnhBiv	Bivalent
+roadmap18	14_TssBiv	Bivalent
+roadmap18	15_EnhBiv	Bivalent
+roadmap25	23_PromBiv	Bivalent
+segway_nar_H1-HESC	PromP	Bivalent
+segway_nar_HEPG2	PromP1	Bivalent
+segway_nar_HEPG2	PromP2	Bivalent
+segway_nar_HEPG2	Repr4	Bivalent	k27me3,k4me1,gene upstream
+segway_nar_K562	EnhP	Bivalent	k4me1,k27me3
+chromhmm9	14_Repetitive/CNV	ConstitutiveHet
+chromhmm9	15_Repetitive/CNV	ConstitutiveHet
+libbrecht2016_H1-HESC	8	ConstitutiveHet	k27me3,k9
+libbrecht2016_HSMM	10	ConstitutiveHet	k9
+libbrecht2016_HSMM	11	ConstitutiveHet	k9,gene depl
+libbrecht2016_HSMM	1	ConstitutiveHet	k27me3,k9me3
+libbrecht2016_RIGHT_ATRIUM	0	ConstitutiveHet	k9
+libbrecht2016_RIGHT_ATRIUM	10	ConstitutiveHet	k9,k27
+libbrecht2016_RIGHT_ATRIUM	7	ConstitutiveHet	k9,k27
+roadmap15	9_Het	ConstitutiveHet
+roadmap18	12_ZNF/Rpts	ConstitutiveHet
+roadmap18	13_Het	ConstitutiveHet
+roadmap25	21_Het	ConstitutiveHet
+segway_nar_GM12878	Low4	Quiescent	
+segway_nar_HUVEC	Low1	ConstitutiveHet	k9
+segway_nar_HUVEC	Low2	ConstitutiveHet	k9
+segway_nar_HUVEC	Low3	ConstitutiveHet	k9
+chromhmm9	4_Strong_Enhancer	Enhancer
+chromhmm9	5_Strong_Enhancer	Enhancer
+chromhmm_nar	Enh	Enhancer
+chromhmm_nar	EnhF	Enhancer
+libbrecht2016_AG04449	10	Enhancer	k4me1,k27ac
+libbrecht2016_AG04449	2	Enhancer	k4me1,k27ac
+libbrecht2016_H1-HESC	19	Enhancer	reg,k27me3
+libbrecht2016_H1-HESC	24	Enhancer	reg
+libbrecht2016_HSMM	2	Enhancer	k4me1,k27ac
+libbrecht2016_RIGHT_ATRIUM	11	Enhancer	k4me1,k27ac,whole gene body
+libbrecht2016_RIGHT_ATRIUM	13	Enhancer	k4me1,k27ac
+libbrecht2016_RIGHT_ATRIUM	9	Enhancer	High k4me1, k27ac
+roadmap18	10_EnhA2	Enhancer	low
+roadmap18	9_EnhA1	Enhancer
+roadmap25	13_EnhA1	Enhancer
+roadmap25	14_EnhA2	Enhancer
+segway_nar_GM12878	Enh	Enhancer
+segway_nar_GM12878	EnhF	Enhancer	k4me1,k27ac,k9me3
+segway_nar_HEPG2	Enh	Enhancer
+segway_nar_HEPG2	EnhF1	Enhancer
+segway_nar_HUVEC	Enh	Enhancer
+segway_nar_HUVEC	EnhF1	Enhancer
+segway_nar_HUVEC	EnhF2	Enhancer	k4me1,k27ac
+chromhmm9	6_Weak_Enhancer	RegPermissive
+chromhmm9	7_Weak_Enhancer	RegPermissive
+chromhmm_nar	EnhW	RegPermissive
+chromhmm_nar	EnhWF	RegPermissive
+libbrecht2016_AG04449	12	RegPermissive	some k4me1+me3,k27ac
+libbrecht2016_H1-HESC	17	Unclassified	5'flanking, gene body, no marsk
+libbrecht2016_H1-HESC	18	RegPermissive	reg,k27me3,whole gene
+libbrecht2016_H1-HESC	1	RegPermissive	k4me1
+libbrecht2016_H1-HESC	23	RegPermissive	k4me1,reg
+libbrecht2016_H1-HESC	5	RegPermissive	reg,k27me3,whole gene
+libbrecht2016_HSMM	15	RegPermissive	low,k4me1
+libbrecht2016_HSMM	3	RegPermissive	k4me1,~k4me3,k27ac,~5'
+roadmap15	7_Enh	RegPermissive
+roadmap18	11_EnhWk	RegPermissive
+roadmap25	10_TxEnh5'	RegPermissive
+roadmap25	12_TxEnhW	RegPermissive
+roadmap25	15_EnhAF	RegPermissive
+roadmap25	16_EnhW1	RegPermissive
+roadmap25	17_EnhW2	RegPermissive
+segway_nar_GM12878	EnhWf	RegPermissive	k9,reg
+segway_nar_H1-HESC	EnhPr	RegPermissive	k4me1,no k4me3, some k27, gene upstream and body
+segway_nar_H1-HESC	EnhWf1	RegPermissive
+segway_nar_H1-HESC	EnhWf2	RegPermissive
+segway_nar_HEPG2	EnhF2	RegPermissive
+segway_nar_HUVEC	EnhW1	RegPermissive
+segway_nar_HUVEC	EnhW2	RegPermissive
+segway_nar_K562	Enh2	RegPermissive
+segway_nar_K562	EnhF1	RegPermissive	
+segway_nar_K562	EnhF2	RegPermissive	k4me1,no k27
+segway_nar_K562	EnhWf	RegPermissive	mid all marks, gene upstream and downstream
+chromhmm9	12_Repressed	FacultativeHet
+chromhmm_nar	ReprD	FacultativeHet	D means Dnase 
+chromhmm_nar	Repr	FacultativeHet
+chromhmm_nar	ReprW	FacultativeHet
+libbrecht2016_H1-HESC	11	FacultativeHet	low
+libbrecht2016_H1-HESC	22	FacultativeHet	k27me3,reg
+libbrecht2016_H1-HESC	4	FacultativeHet	k27me3
+libbrecht2016_HSMM	13	FacultativeHet	k27me3,gene depl
+libbrecht2016_HSMM	4	FacultativeHet	k27me3,depl
+libbrecht2016_RIGHT_ATRIUM	6	FacultativeHet	k27
+roadmap15	13_ReprPC	FacultativeHet
+roadmap15	14_ReprPCWk	FacultativeHet
+roadmap18	16_ReprPC	FacultativeHet
+roadmap18	17_ReprPCWk	FacultativeHet
+roadmap25	24_ReprPC	FacultativeHet
+segway_nar_GM12878	Repr1	FacultativeHet
+segway_nar_GM12878	Repr2	FacultativeHet	k27
+segway_nar_GM12878	Repr3	FacultativeHet
+segway_nar_GM12878	Repr4	FacultativeHet
+segway_nar_GM12878	Repr5	FacultativeHet	
+segway_nar_H1-HESC	Low4	FacultativeHet	k27,k9
+segway_nar_H1-HESC	Repr	FacultativeHet
+segway_nar_HEPG2	Repr1	FacultativeHet
+segway_nar_HEPG2	Repr2	FacultativeHet
+segway_nar_HEPG2	Repr3	FacultativeHet
+segway_nar_HEPG2	Repr5	FacultativeHet	k27me3
+segway_nar_HEPG2	Repr6	FacultativeHet
+segway_nar_HUVEC	Repr1	FacultativeHet
+segway_nar_HUVEC	Repr2	FacultativeHet
+segway_nar_HUVEC	Repr3	FacultativeHet	k27me3
+segway_nar_HUVEC	Repr4	FacultativeHet	k27me3
+segway_nar_HUVEC	Repr5	FacultativeHet	k27me3
+segway_nar_HUVEC	Repr6	FacultativeHet
+segway_nar_HUVEC	Repr7	FacultativeHet
+segway_nar_K562	Repr1	FacultativeHet
+segway_nar_K562	Repr2	FacultativeHet
+segway_nar_K562	Repr3	FacultativeHet
+segway_nar_K562	Repr4	FacultativeHet
+chromhmm_nar	PromF	RegPermissive
+chromhmm_nar	TssF	RegPermissive
+roadmap15	2_TssAFlnk	RegPermissive
+roadmap18	2_TssFlnk	RegPermissive
+roadmap18	3_TssFlnkU	RegPermissive
+roadmap18	4_TssFlnkD	RegPermissive
+roadmap25	2_PromU	RegPermissive
+roadmap25	3_PromD1	RegPermissive
+roadmap25	4_PromD2	RegPermissive
+segway_nar_GM12878	PromF	RegPermissive
+segway_nar_GM12878	TssF	RegPermissive
+segway_nar_H1-HESC	PromF	RegPermissive
+segway_nar_H1-HESC	TssF	RegPermissive
+segway_nar_HEPG2	PromF	RegPermissive
+segway_nar_HUVEC	PromF	RegPermissive
+segway_nar_K562	PromF	RegPermissive
+chromhmm9	1_Active_Promoter	Promoter
+chromhmm9	2_Weak_Promoter	Promoter
+chromhmm_nar	Tss	Promoter
+libbrecht2016_AG04449	0	Promoter	k4me3,k4me1,k27ac,5'
+libbrecht2016_AG04449	11	Promoter	k4me3,k4me1,k27ac,5'
+libbrecht2016_AG04449	4	Promoter	k4me3,k4me1,k27ac,5'
+libbrecht2016_AG04449	6	Promoter	k4me3,k4me1,k27ac,5'
+libbrecht2016_HSMM	16	Promoter	k4me1,k4me3,k27ac,5'
+libbrecht2016_HSMM	8	Promoter	k4me3,k4me1,5'
+libbrecht2016_RIGHT_ATRIUM	1	Promoter	k4me3,k27ac
+libbrecht2016_RIGHT_ATRIUM	4	Promoter	k4me3, no gene enr
+roadmap15	1_TssA	Promoter
+roadmap18	1_TssA	Promoter
+roadmap25	1_TssA	Promoter
+roadmap25	22_PromP	Promoter
+segway_nar_GM12878	Tss	Promoter
+segway_nar_H1-HESC	Tss	Promoter
+segway_nar_HEPG2	EnhPr	Promoter	k4me1,k4me3,some k27
+segway_nar_HEPG2	Tss	Promoter
+segway_nar_HUVEC	Tss	Promoter
+segway_nar_K562	Enh1	Promoter
+segway_nar_K562	EnhF3	Promoter
+segway_nar_K562	Tss	Promoter
+chromhmm9	13_Heterochrom/lo	Quiescent	low
+chromhmm_nar	Low	Quiescent
+chromhmm_nar	Quies	Quiescent
+libbrecht2016_AG04449	1	Quiescent	low
+libbrecht2016_AG04449	3	Quiescent	gene internal only,some k4me3
+libbrecht2016_AG04449	5	Quiescent	low
+libbrecht2016_AG04449	7	Quiescent	low
+libbrecht2016_AG04449	8	Quiescent	low
+libbrecht2016_AG04449	9	Quiescent	low
+libbrecht2016_H1-HESC	10	Quiescent	low,5' flanking
+libbrecht2016_H1-HESC	12	Quiescent	low
+libbrecht2016_H1-HESC	13	Quiescent	low
+libbrecht2016_H1-HESC	15	Quiescent	low
+libbrecht2016_H1-HESC	16	Quiescent	low
+libbrecht2016_H1-HESC	21	Quiescent	low
+libbrecht2016_H1-HESC	25	Quiescent	low
+libbrecht2016_H1-HESC	26	Quiescent	low
+libbrecht2016_H1-HESC	2	Quiescent	low
+libbrecht2016_H1-HESC	3	Quiescent	low
+libbrecht2016_H1-HESC	9	Quiescent	low
+libbrecht2016_HSMM	12	Quiescent	low,gene depl
+libbrecht2016_HSMM	5	Quiescent	low
+libbrecht2016_HSMM	6	Quiescent	low
+libbrecht2016_RIGHT_ATRIUM	3	Quiescent	low
+libbrecht2016_RIGHT_ATRIUM	5	Quiescent	low all
+roadmap15	15_Quies	Quiescent
+roadmap18	18_Quies	Quiescent
+roadmap25	25_Quies	Quiescent
+segway_nar_GM12878	Low1	Quiescent
+segway_nar_GM12878	Low2	ConstitutiveHet	k9
+segway_nar_GM12878	Low3	Quiescent
+segway_nar_GM12878	Low5	Quiescent
+segway_nar_GM12878	Low6	Quiescent
+segway_nar_GM12878	Quies	Quiescent
+segway_nar_H1-HESC	ElonW1	Quiescent	low
+segway_nar_H1-HESC	ElonW2	Quiescent	low
+segway_nar_H1-HESC	ElonW3	Quiescent	low
+segway_nar_H1-HESC	EnhWf3	Quiescent
+segway_nar_H1-HESC	Low1	Quiescent
+segway_nar_H1-HESC	Low2	Quiescent
+segway_nar_H1-HESC	Low5	Quiescent
+segway_nar_H1-HESC	Low6	Quiescent
+segway_nar_H1-HESC	Low7	Quiescent
+segway_nar_H1-HESC	Quies	Quiescent
+segway_nar_HEPG2	EnhW	Quiescent
+segway_nar_HEPG2	Low1	Quiescent
+segway_nar_HEPG2	Low2	Quiescent
+segway_nar_HEPG2	Low3	ConstitutiveHet	k9me3
+segway_nar_HEPG2	Low4	Quiescent
+segway_nar_HEPG2	Quies	Quiescent
+segway_nar_HUVEC	Quies	Quiescent
+segway_nar_K562	Low1	Quiescent
+segway_nar_K562	Low2	Quiescent
+segway_nar_K562	Low3	Quiescent
+segway_nar_K562	Low4	ConstitutiveHet	k9me3
+segway_nar_K562	Low5	Quiescent
+segway_nar_K562	Low6	ConstitutiveHet	k36me3
+segway_nar_K562	Quies	Quiescent
+chromhmm9	10_Txn_Elongation	Transcribed
+chromhmm9	11_Weak_Txn	Transcribed
+chromhmm9	9_Txn_Transition	Transcribed
+chromhmm_nar	Elon	Transcribed
+chromhmm_nar	ElonW	Transcribed
+chromhmm_nar	Gen3'	Transcribed
+chromhmm_nar	Gen5'	Transcribed
+libbrecht2016_H1-HESC	0	Transcribed	k36,gene
+libbrecht2016_H1-HESC	20	Transcribed	gene body,k36
+libbrecht2016_H1-HESC	6	Transcribed	k36,gene middle
+libbrecht2016_HSMM	14	Transcribed	k36me3,k9me3,k4me1,strong gene body
+libbrecht2016_HSMM	7	Transcribed	k36,gene body
+libbrecht2016_HSMM	9	Transcribed	k36
+libbrecht2016_RIGHT_ATRIUM	2	Transcribed	k36,internal
+libbrecht2016_RIGHT_ATRIUM	8	Transcribed	k36me3,gene body
+roadmap15	3_TxFlnk	Transcribed	k36,gene body
+roadmap15	4_Tx	Transcribed
+roadmap15	5_TxWk	Transcribed
+roadmap18	5_Tx	Transcribed
+roadmap18	6_TxWk	Transcribed
+roadmap25	11_TxEnh3'	Transcribed	k36,whole gene
+roadmap25	6_Tx	Transcribed
+roadmap25	7_Tx3'	Transcribed
+roadmap25	8_TxWk	Transcribed
+segway_nar_GM12878	Elon1	Transcribed
+segway_nar_GM12878	Elon2	Transcribed
+segway_nar_GM12878	ElonW	Transcribed
+segway_nar_GM12878	Gen3'	Transcribed
+segway_nar_GM12878	Gen5'	Transcribed
+segway_nar_H1-HESC	Elon	Transcribed
+segway_nar_H1-HESC	Gen3'	Transcribed
+segway_nar_H1-HESC	Low3	ConstitutiveHet	weak k36,gene body, k9
+segway_nar_HEPG2	Elon	Transcribed
+segway_nar_HEPG2	ElonW	Transcribed
+segway_nar_HEPG2	Gen5'1	Transcribed
+segway_nar_HEPG2	Gen5'2	Transcribed
+segway_nar_HUVEC	Elon1	Transcribed
+segway_nar_HUVEC	Elon2	Transcribed
+segway_nar_HUVEC	ElonW	Transcribed
+segway_nar_HUVEC	Gen3'	Transcribed
+segway_nar_HUVEC	Gen5'	Transcribed
+segway_nar_K562	Elon	Transcribed
+segway_nar_K562	ElonW	Transcribed
+segway_nar_K562	Gen3'1	Transcribed
+segway_nar_K562	Gen3'2	Transcribed
+chromhmm9	8_Insulator	Unclassified
+chromhmm_nar	Art	Unclassified
+chromhmm_nar	CtcfO	Unclassified
+chromhmm_nar	Ctcf	Unclassified
+chromhmm_nar	DnaseD	RegPermissive
+chromhmm_nar	DnaseU	RegPermissive
+chromhmm_nar	FaireW	RegPermissive
+chromhmm_nar	H4K20	Unclassified
+chromhmm_nar	Pol2	Unclassified	k36me3,gene end
+libbrecht2016_HSMM	0	Unclassified	k4me1,k27ac,k36,initial intron -- gene 5' end
+libbrecht2016_RIGHT_ATRIUM	12	Unclassified	k9,k4me1,some k36
+roadmap15	6_EnhG	Unclassified
+roadmap15	8_ZNF/Rpts	ConstitutiveHet	k9me3,k36
+roadmap18	7_EnhG1	Unclassified
+roadmap18	8_EnhG2	Unclassified
+roadmap25	18_EnhAc	RegPermissive	low
+roadmap25	19_DNase	RegPermissive
+roadmap25	20_ZNF/Rpts	ConstitutiveHet	k9me3,reg
+roadmap25	5_Tx5'	Unclassified	low,k36,initial intron
+roadmap25	9_TxReg	Unclassified
+segway_nar_GM12878	CtcfO	Unclassified
+segway_nar_GM12878	Ctcf	Unclassified
+segway_nar_H1-HESC	CtcfO	Unclassified
+segway_nar_H1-HESC	DnaseD	Unclassified
+segway_nar_H1-HESC	Faire	Unclassified
+segway_nar_HEPG2	CtcfO	Unclassified
+segway_nar_HUVEC	CtcfO	Unclassified
+segway_nar_HUVEC	Faire	Unclassified
+segway_nar_K562	CtcfO	Unclassified
